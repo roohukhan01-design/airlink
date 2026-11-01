@@ -1,3 +1,4 @@
+# Manual and push-triggered AirLink APK build.
 name: Build AirLink APK
 on:
   workflow_dispatch:
